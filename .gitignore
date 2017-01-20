@@ -110,3 +110,6 @@ ENV/
 .ropeproject
 
 # End of https://www.gitignore.io/api/vim,python
+
+
+*.np[yz]
